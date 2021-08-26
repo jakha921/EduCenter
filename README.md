@@ -1,2 +1,2 @@
 # EduCenter
-Learning center
+Learning center for pupils
